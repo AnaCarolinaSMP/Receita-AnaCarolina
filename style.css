@@ -30,7 +30,7 @@ h1, h2 {
 }
 
 h1 {
-    font-size: 32px;
+    font-size: 40x;
     color:#312e2c;
     line-height: 100%;
     margin-bottom: 24px;
@@ -48,8 +48,8 @@ p {
 
 .tempo {
     background-color: #fff7fb;
-    padding: 28px;
-    border-radius: 12px;
+    padding: 24x;
+    border-radius: 16x;
     margin-bottom: 32px;
 }
 
@@ -89,7 +89,7 @@ h2 {
 }
 
 .ingredientes li ::marker {
-    font-size: 12px;
+    font-size: 12;
     color: #854632;
 }
 
